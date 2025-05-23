@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## Результаты масок не удаляются
 
 merged_preds_dir - папка в которой находятся predicts пока не чистит себя
+
+# Модель лежит в https://www.kaggle.com/models/antonoof/yolo-model-gazprom/?select=640_best_model.pt ! может поменяться
