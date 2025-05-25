@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 merged_preds_dir - папка в которой находятся predicts пока не чистит себя
 
-### Модель лежит в https://www.kaggle.com/models/antonoof/yolo-model-gazprom/?select=640_best_model.pt ! может поменяться
+### Модель лежит в https://www.kaggle.com/models/antonoof/yolo-model-gazprom/?select=pretrainedGaus.pt ! может поменяться
 
 Так же необходимо создать папку model и переместить модель с именем best.pt
 
